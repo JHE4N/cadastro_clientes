@@ -15,6 +15,11 @@ section{
     align-items: center;
     flex-direction: column; /*alinhar itens em coluna*/
 }
+button{
+    height: 50px;
+    width: 100px;
+    float: left;
+}
 div form{
 }
 form div{
