@@ -1,2 +1,2 @@
 # Cadastro de Funcionários 
- CRUD simples com html, css, JavaScript e Sql
+ CRUD simples com html, css, JavaScript
